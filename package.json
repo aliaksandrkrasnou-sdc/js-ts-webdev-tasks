@@ -1,0 +1,16 @@
+{
+  "name": "testss",
+  "version": "1.0.0",
+  "description": "Your team task is to implement Frontend and Backend for E-Commerce Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
